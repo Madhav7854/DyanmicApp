@@ -6,7 +6,7 @@
 	<version>1.0-SNAPSHOT</version>
 	<name>WebApplication Maven Webapp</name>
 	<url>http://maven.apache.org</url>
-	<!--maven 2.0.. -->
+	<!--maven -->
 	<dependencies>
 		<dependency>
 			<groupId>junit</groupId>
